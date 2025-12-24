@@ -1,12 +1,15 @@
 ## Olá! Me chamo Peteson William
 Sou técnico em desenvolvimento de sistemas, atualmente sou estudante do curso de Sistemas de Informação pela Universidade Federal da Paraíba. 
 
-<a href="https://github.com/petersonwsf">
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=petersonwsf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
+  <a href="https://github.com/petersonwsf">
+  <img src="https://github-readme-stats.vercel.app/api?username=petersonwsf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> 
+  </a>
+  <br>
+  <a href="https://github.com/petersonwsf">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petersonwsf&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="250" alt="languages graph"  />
+  </a>
 </div>
-</a>
 <br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
