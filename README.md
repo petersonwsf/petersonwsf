@@ -1,33 +1,50 @@
-## Olá! Me chamo Peteson William
-Sou técnico em desenvolvimento de sistemas, atualmente sou estudante do curso de Sistemas de Informação pela Universidade Federal da Paraíba. 
+<!-- README de Perfil - cole isso no README.md do repositório com o mesmo nome do seu usuário -->
 
-<div align="left">
-  <a href="https://github.com/petersonwsf">
-  <img src="https://github-readme-stats.vercel.app/api?username=petersonwsf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> 
+<div align="center">
+
+# 👋 Olá, eu sou o Peterson!
+
+<p>
+  Desenvolvedor <b>Full-Stack</b>
+</p>
+
+<!-- Linha com links (preencha) -->
+<p>
+  <a href="https://www.linkedin.com/in/peterson-william-02ba87243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <br>
-  <a href="https://github.com/petersonwsf">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petersonwsf&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <a href="mailto:petersondev.profissional@gmail.com@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
+</p>
+
 </div>
-<br/>
+
+---
+
+## 🚀 Sobre mim
+- 💻 Full-Stack
+- 🧠 Curto arquitetura, boas práticas e código limpo
+- 🧰 Stack do dia a dia: **Node.js + TypeScript + PostgreSQL**
+- 🌱 Sempre aprendendo e melhorando processos
+
+---
+
+## 🧱 Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
+  <img height="28" src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres,prisma,docker,aws,git,github,react,html,css,spring,linux" />
+</div>
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/peterson-william-02ba87243/
+- Email: petersondev.profissional@gmail.com
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7F00FF,100:00D4FF&section=footer" />
+
 </div>
