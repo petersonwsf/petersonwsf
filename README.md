@@ -32,7 +32,7 @@
 
 ## 🧱 Tech Stack
 <div align="left">
-  <img height="28" src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres,prisma,docker,aws,git,github,react,html,css,spring,linux" />
+  <img height="28" src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres,prisma,docker,aws,git,github,react,html,css,nest,spring,linux" />
 </div>
 
 ---
